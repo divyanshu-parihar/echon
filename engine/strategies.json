@@ -1,0 +1,10 @@
+{
+	"strategies":[{
+		"user":"div",
+		"name":"price-filter",
+		"filter" : {
+			"price" : 0.50,
+			"direction" : "above"
+		}
+	}]
+}
